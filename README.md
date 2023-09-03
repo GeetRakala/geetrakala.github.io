@@ -1,4 +1,4 @@
-## Website:
+## Website
 https://geetrakala.github.io/
 
 ## Theme
