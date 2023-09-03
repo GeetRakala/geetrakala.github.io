@@ -4,7 +4,7 @@ email: geet.rakala@oist.jp # email of site's author
 url: https://geetrakala.github.io # root address of the site
 baseurl: # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-Academic researcher in the field of Statistical Physics/ Condensed Matter Physics
+Academic researcher in the field of Statistical Physics/ Condensed Matter Physics.
 
 
 permalink: /:slug.html
