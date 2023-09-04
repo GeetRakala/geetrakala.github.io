@@ -1,12 +1,7 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
     - title: CV
       url: cv
-    - title: Projects
-      url: projects
     - title: arXiv
       url: arxiv
-    - title: github repo
+    - title: github
       url: https://github.com/geetrakala
